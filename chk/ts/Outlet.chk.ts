@@ -1,7 +1,7 @@
 import Outlet from "../../src/Outlet";
 
-const fileOutletOne = Outlet.from("test.log");
-const fileOutletTwo = Outlet.from("test.log");
+const fileOutletOne = Outlet.from("var/Outlet.chk.log");
+const fileOutletTwo = Outlet.from("var/Outlet.chk.log");
 
 // console.log(Outlet["instances"]);
 // console.log(Outlet["instances"][0]);
