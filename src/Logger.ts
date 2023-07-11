@@ -112,7 +112,7 @@ export default class Logger {
    * @param {boolean} reversed - A boolean for reversing the order of the stack trace.
    */
   public static logFatal(message: string, reversed = false) {
-    Logger.log(Level.FATAL, `${message}\n${cstack.getTrace(reversed)}\nExited.`);
+    Logger.log(Level.FATAL, `${message}\n${cstack.getTrace(reversed)}\nExited`);
     process.exit(1);
   }
 
