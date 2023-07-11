@@ -1,5 +1,3 @@
-import Outlet from "../../src/Outlet";
-
 const fileOutletOne = Outlet.from("var/Outlet.chk.log");
 const fileOutletTwo = Outlet.from("var/Outlet.chk.log");
 

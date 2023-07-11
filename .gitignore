@@ -2,8 +2,8 @@
 *
 
 # include
-!chk
-!chk/**
+!check
+!check/**
 !docs
 !docs/**
 !src

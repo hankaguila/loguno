@@ -1,5 +1,3 @@
-import { Logger, Level, Template } from "../../src";
-
 Logger.addOutlet("Logger.chk", "var/Logger-chk.log", {
   isolated: true,
   threshold: Level.INFO,
