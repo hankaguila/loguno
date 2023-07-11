@@ -4,14 +4,14 @@
 # include
 !check
 !check/**
-!docs
-!docs/**
+!doc
+!doc/**
 !src
 !src/**
 !test
 !test/**
-!types
-!types/**
+!type
+!type/**
 !.gitignore
 !.eslintrc.json
 !package.json

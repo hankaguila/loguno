@@ -1,6 +1,6 @@
 import fs from "fs";
 import cstack from "cstack";
-import { Level, OutletConfig, OutletOutput, Template } from "../types";
+import { Level, OutletConfig, OutletOutput, Template } from "../type";
 import { getDuration } from "./helpers";
 import Outlet from "./Outlet";
 

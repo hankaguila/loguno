@@ -2,7 +2,7 @@ import fs from "fs";
 import os from "os";
 import path from "path";
 import cstack, { StackFrame } from "cstack";
-import { Level, OutletConfig, OutletOutput, Template } from "../types";
+import { Level, OutletConfig, OutletOutput, Template } from "../type";
 import { formatDate } from "./helpers";
 
 /**

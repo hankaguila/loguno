@@ -78,15 +78,15 @@ node index.js
 Since `Logger` starts with one outlet to `stdout` by default. Running the above example would log 
 the following to `stdout`:
 
-![output](docs/example-output.png)
+![output](doc/example-output.png)
 
 The following diagram illustrates what happened:
 
-![example](docs/example-diagram.svg)
+![example](doc/example-diagram.svg)
 
 ## Documentation
 
-See [here](docs/docs.md).
+See [here](doc/doc.md).
 
 ## License
 
