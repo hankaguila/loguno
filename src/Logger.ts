@@ -1,8 +1,8 @@
 import fs from "fs";
 import cstack from "cstack";
-import { Level, OutletConfig, OutletOutput, Template } from "../type";
-import { getDuration } from "./helpers";
 import Outlet from "./Outlet";
+import { Level, OutletConfig, OutletOutput, Template } from "./types";
+import { getDuration } from "./helpers";
 
 export const TEMPLATES: Record<string, string> = {
   m: "{message}",
