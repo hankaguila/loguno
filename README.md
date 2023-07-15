@@ -1,4 +1,4 @@
-# loguno
+# LogUno
 
 One logger, many outlets
 
@@ -75,7 +75,7 @@ export default function main() {
 node index.js
 ```
 
-Since `Logger` starts with one outlet to `stdout` by default. Running the above example would log 
+Since `Logger` starts with one outlet to `stdout` by default, running the above example would log 
 the following to `stdout`:
 
 ![output](doc/example-output.png)
