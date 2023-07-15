@@ -1,5 +1,5 @@
 const fs =  require("fs");
-const { Logger, Level, Template } = require("../../dist/index.cjs");
+const { Logger, Level, Template } = require("../../build/index.cjs");
 
 console.debug({ Logger, Level, Template }, "\n");
 

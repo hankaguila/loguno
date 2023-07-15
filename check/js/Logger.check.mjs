@@ -1,5 +1,5 @@
 import fs from "fs";
-import { Logger, Level, Template } from "../../dist/index.mjs";
+import { Logger, Level, Template } from "../../build/index.mjs";
 
 console.debug({ Logger, Level, Template }, "\n");
 

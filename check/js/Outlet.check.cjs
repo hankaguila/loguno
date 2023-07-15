@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { Outlet } = require("../../dist/index.cjs");
+const { Outlet } = require("../../build/index.cjs");
 
 console.debug({ Outlet }, "\n");
 

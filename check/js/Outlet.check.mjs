@@ -1,5 +1,5 @@
 import fs from "fs";
-import { Outlet } from "../../dist/index.mjs";
+import { Outlet } from "../../build/index.mjs";
 
 console.debug({ Outlet }, "\n");
 
