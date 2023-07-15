@@ -1,6 +1,6 @@
 {
   "name": "loguno",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "One logger, many outlets",
   "keywords": [
     "logger",
@@ -47,6 +47,6 @@
     "vitest": "^0.32.0"
   },
   "dependencies": {
-    "cstack": "^0.3.2"
+    "cstack": "^0.3.4"
   }
 }
